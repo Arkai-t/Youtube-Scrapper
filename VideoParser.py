@@ -79,7 +79,7 @@ class VideoParser:
             c = {}
             c['Author'] = comment['author']
             c['Content'] = comment['text']
-            c['NbLikes'] = int(comment['votes'])
+            c['NbLikes'] = comment['votes']
 
             res.append(c)
 
