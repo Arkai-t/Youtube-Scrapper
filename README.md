@@ -25,7 +25,7 @@ Avec
     "videos_id": [
         "youtube_id1",
         "youtube_id2",
-        ...
+        "..."
     ]
 }
 ```
@@ -61,7 +61,7 @@ Attention, deux tests sont dépendant du nombres de likes, ils peuvent ainsi cha
         "Description": " ... ",
         "Links": [
             "abc.com",
-            ...
+            "..."
         ],
         "Comments": [
             {
@@ -69,12 +69,12 @@ Attention, deux tests sont dépendant du nombres de likes, ils peuvent ainsi cha
                 "Content": " ... ",
                 "NbLikes": "10"
             },
-            ...
+            "..."
         ],
         "Id": "000000000"
     },
     {
-        ...
+        "..."
     }
 ]
 ```  
