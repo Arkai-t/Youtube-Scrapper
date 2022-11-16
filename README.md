@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce script permet de scrapper une liste de vidéos Youtuve et de stocker certaines informations dans un fichier au format JSON  
+Ce script permet de scrapper une liste de vidéos Youtube et de stocker certaines informations dans un fichier au format JSON  
 
 ## Installation
 
